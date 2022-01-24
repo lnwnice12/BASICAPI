@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "What is Computer?",
+        "subtitle" : "A computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "image_url" : "https://cdn.pixabay.com/photo/2017/10/26/19/45/red-2892235_960_720.png",
+        "detail" : "คอมพิวเตอร์ คือ อุปกรณ์ทางอิเล็กทรอนิกส์ (electrinic device) ที่มนุษย์ใช้เป็นเครื่องมือช่วยในการจัดการกับข้อมูลที่อาจเป็นได้ ทั้งตัวเลข ตัวอักษร หรือสัญลักษณ์ที่ใช้แทนความหมายในสิ่งต่าง ๆ โดยคุณสมบัติที่สำคัญของคอมพิวเตอร์คือการที่สามารถกำหนดชุดคำสั่งล่วงหน้าหรือโปรแกรมได้"
+    },
+
+    {
+        "title" : "What is Programmer?",
+        "subtitle" : "B computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "image_url" : "https://cdn.pixabay.com/photo/2021/11/19/15/21/christmas-6809681_960_720.png",
+        "detail" : "คนที่เขียนโปรแกรมสั่งให้คอมพิวเตอร์ทำงานตามที่ต้องการได้ และควรจะมีความชำนาญด้วย (สำหรับคนที่หัดเขียนใหม่ๆ ไม่ควรจะใช้คำๆนี้)นักเขียนโปรแกรมที่ดีนั้นจะต้องรู้วิธีแก้ปัญหาและรู้ด้วยว่าจะแก้อย่างไรรวมทั้งต้องเข้าใจหลักและกฎเกณฑ์ของภาษาต่างๆ ที่จะทำให้เครื่องคอมพิวเตอร์เข้าใจด้วยเพื่อจะได้ปฏิบัติตามคำสั่งได้"
+    },
+
+    {
+        "title" : "What is Software?",
+        "subtitle" : "C computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/11/29/12/34/christmas-1869533_960_720.png",
+        "detail" : "โปรแกรมหรือชุดคำสั่ง ที่สั่งให้ฮาร์ดแวร์ทำงาน รวมไปถึงการควบคุมการทำงาน ของอุปกรณ์แวดล้อมต่างๆ เช่น ฮาร์ดดิสก์ ดิสก์ไดร์ฟ ซีดีรอม การ์ดอินเตอร์เฟสต่าง ๆ เป็นต้น ซอฟต์แวร์ เป็นสิ่งที่มองไม่เห็นจับต้องไม่ได้ แต่รับรู้การทำงานของมันได้ ซึ่งต่างกับ ฮาร์ดแวร์ (Hardware) ที่สามารถจับต้องได้"
+    },
+
+    {
+        "title" : "What is Engineering?",
+        "subtitle" : "C computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "image_url" : "https://cdn.pixabay.com/photo/2021/12/05/21/39/christmas-balls-6848782_960_720.jpg",
+        "detail" : "คือผู้ที่ประกอบอาชีพทางด้านวิศวกรรม มีหน้าที่ ศึกษาวิเคราะห์ คำนวณ ออกแบบ ตรวจสอบแก้ไขปัญหาและควบคุมการผลิต อาทิ การก่อสร้างสิ่งก่อสร้าง การออกแบบและผลิตรถยนต์ การควบคุมเครื่องจักรกลโรงงานต่าง ๆ โดยวิศวกรยังแบ่งออกได้เป็นหลายสาขา"
+    }
+
+]
